@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi Woo Checkout\n"
+"POT-Creation-Date: 2021-03-09 14:06+0700\n"
+"PO-Revision-Date: 2021-03-09 14:06+0700\n"
+"Last-Translator: \n"
+"Language-Team: DuyLee\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: view\n"
+"X-Poedit-SearchPath-1: lib\n"
+"X-Poedit-SearchPath-2: templates\n"
+
+#: lib/admin/bundle-selection-admin.php:70 lib/class-addon-product.php:117
+msgid "Post ID"
+msgstr ""
+
+#: lib/admin/bundle-selection-admin.php:147
+msgid "Custom product price"
+msgstr ""
+
+#: lib/admin/bundle-selection-admin.php:279
+msgid "Bundle Selection Form"
+msgstr ""
+
+#: lib/admin/bundle-selection-admin.php:308
+#: lib/admin/bundle-selection-admin.php:392
+msgid "Buy X Get X Free"
+msgstr ""
+
+#: lib/admin/bundle-selection-admin.php:309
+#: lib/admin/bundle-selection-admin.php:393
+msgid "Buy X Get X % Off"
+msgstr ""
+
+#: lib/admin/bundle-selection-admin.php:310
+#: lib/admin/bundle-selection-admin.php:394
+msgid "Bundled Product"
+msgstr ""
+
+#: lib/admin/bundle-selection-admin.php:312
+#: lib/admin/bundle-selection-admin.php:396
+msgid "ADD One More"
+msgstr ""
+
+#: lib/class-add-template.php:12
+msgid "One Checkout FAQ Menu Footer"
+msgstr ""
+
+#: lib/class-add-template.php:13
+msgid "One Checkout End Menu Footer"
+msgstr ""
+
+#: lib/class-addon-product.php:34 lib/class-addon-product.php:35
+#: view/includes/addon_product.php:25
+msgid "Addon product"
+msgstr ""
+
+#: lib/class-addon-product.php:36
+msgid "Add New"
+msgstr ""
+
+#: lib/class-addon-product.php:37
+msgid "Add New Addon Product"
+msgstr ""
+
+#: lib/class-addon-product.php:38
+msgid "Edit Addon Product"
+msgstr ""
+
+#: lib/class-addon-product.php:39
+msgid "New Addon Product"
+msgstr ""
+
+#: lib/class-addon-product.php:40
+msgid "View Addon Product"
+msgstr ""
+
+#: lib/class-addon-product.php:41
+msgid "Search Addon Product"
+msgstr ""
+
+#: lib/class-addon-product.php:42
+msgid "Nothing Found"
+msgstr ""
+
+#: lib/class-addon-product.php:43
+msgid "Nothing found in the Trash"
+msgstr ""
+
+#: lib/class-addon-product.php:67 lib/class-addon-product.php:81
+#: lib/class-addon-product.php:118
+msgid "Product ID"
+msgstr ""
+
+#: lib/class-addon-product.php:86
+msgid "One-time offer"
+msgstr ""
+
+#: lib/class-addon-product.php:91
+msgid "Percentage discount"
+msgstr "Remise en pourcentage"
+
+#: lib/class-addon-product.php:119
+msgid "View"
+msgstr ""
+
+#: lib/class-addon-product.php:120
+msgid "Click"
+msgstr ""
+
+#: lib/class-addon-product.php:121
+msgid "Paid"
+msgstr ""
+
+#: lib/class-addon-product.php:122
+msgid "Conversion Rate"
+msgstr ""
+
+#: lib/class-addon-product.php:123
+msgid "Revenue"
+msgstr ""
+
+#: lib/class.mwc.php:109 view/mwc_one_page_checkout_view.php:66
+#: view/shortcode_style_C/package_order_checkout_view_C.php:38
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:71
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:52
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:54
+#, php-format
+msgid "Buy %s + Get %d FREE"
+msgstr "Achetez %s + Obtenir %d GRATUITEMENT"
+
+#: lib/class.mwc.php:119
+#, fuzzy, php-format
+#| msgid "Buy %s + Get %d&#37;"
+msgid "Buy %s + Get %d&#37; Off"
+msgstr "Achetez en %s + Pour Obtenir %d&#37;"
+
+#: lib/class.mwc.php:146
+msgid "Discount bundle"
+msgstr "Offre groupée de réduction"
+
+#: lib/class.mwc.php:279 lib/class.mwc.php:289
+msgid "Choose an option"
+msgstr ""
+
+#: lib/class.mwc.php:584 view/mwc_one_page_checkout_view.php:305
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:131
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:183
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:315
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:178
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:304
+msgid "Total"
+msgstr ""
+
+#: templates/checkout/form-checkout-opc.php:42
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: templates/onecheckout-template-dark.php:41
+msgid "Have a Question?"
+msgstr ""
+
+#: templates/onecheckout-template-dark.php:41
+msgid "See Our FAQS"
+msgstr ""
+
+#: view/includes/addon_product.php:28
+msgid "Addon Special"
+msgstr ""
+
+#: view/includes/addon_product.php:192
+#: view/mwc_package_order_checkout_view.php:251
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: view/includes/addon_product.php:230
+msgid "Qty"
+msgstr ""
+
+#: view/includes/addon_product.php:283
+msgid "Add Item"
+msgstr "Ajouter un item"
+
+#: view/includes/addon_product.php:296
+msgid "See more"
+msgstr ""
+
+#: view/includes/progress_bar.php:7
+msgid "Checking if you Qualify for Special Offers..."
+msgstr ""
+
+#: view/includes/progress_bar.php:8
+msgid "Congratulations You Qualified!"
+msgstr ""
+
+#: view/includes/progress_bar.php:9
+msgid "Checking 2 Warehouses For Available Stock..."
+msgstr ""
+
+#: view/includes/progress_bar.php:10
+msgid "Stock Available In Warehouse 1! Reserving Your Units..."
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:16
+msgid "Step 2 of 3: Customer Information"
+msgstr "Étape 2 sur 3 : Informations Client"
+
+#: view/mwc_one_page_checkout_view.php:17
+msgid "Step 3 of 3: Payment Option"
+msgstr "Étape 3 sur 3 : Options De Paiement"
+
+#: view/mwc_one_page_checkout_view.php:46
+msgid "Step 1 of 3: Select Package"
+msgstr "Étape 1 sur 3 : Sélectionnez l’Offre"
+
+#: view/mwc_one_page_checkout_view.php:64
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:50
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:52
+#, php-format
+msgid "Buy %s"
+msgstr "Achetez %s"
+
+#: view/mwc_one_page_checkout_view.php:70
+#, php-format
+msgid "Buy %s + Get %d &#37;"
+msgstr "Achetez en %s + Pour Obtenir %d&#37;"
+
+#: view/mwc_one_page_checkout_view.php:73
+#: view/shortcode_style_C/package_order_checkout_view_C.php:55
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:92
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:83
+msgid "Bundle option"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:201
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:159
+#, php-format
+msgid "Save %s&#37;"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:218
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:189
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:188
+msgid "select"
+msgstr "sélectionner"
+
+#: view/mwc_one_page_checkout_view.php:218
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:190
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:189
+msgid "selected"
+msgstr "Sélectionné"
+
+#: view/mwc_one_page_checkout_view.php:271
+msgid "Bundle price"
+msgstr "Prix du forfait"
+
+#: view/mwc_one_page_checkout_view.php:288
+#: view/mwc_one_page_checkout_view.php:289
+#: view/mwc_one_page_checkout_view.php:311
+#: view/mwc_one_page_checkout_view.php:312
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:232
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:273
+msgid "Old Price"
+msgstr "Ancien prix"
+
+#: view/mwc_one_page_checkout_view.php:295
+msgid "Same as"
+msgstr "Comparable à"
+
+#: view/mwc_one_page_checkout_view.php:299
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:129
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:130
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:174
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:179
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:169
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:174
+msgid "each"
+msgstr "Pièce"
+
+#: view/mwc_one_page_checkout_view.php:319
+msgid "Discounted"
+msgstr "À prix réduit"
+
+#: view/mwc_one_page_checkout_view.php:346
+msgid "Sell-Out Risk"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:350
+msgid "High"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:352
+msgid "Medium"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:354
+msgid "Low"
+msgstr "Faible"
+
+#: view/mwc_one_page_checkout_view.php:362
+msgid "FREE SHIPPING"
+msgstr "LIVRAISON GRATUITE"
+
+#: view/mwc_one_page_checkout_view.php:365
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:258
+#: view/shortcode_style_C/package_order_checkout_view_C.php:246
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:262
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:279
+msgid "Discount"
+msgstr "Réduction"
+
+#: view/mwc_one_page_checkout_view.php:374
+#: view/mwc_package_order_checkout_view.php:62
+msgid "Best Seller"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:376
+msgid "Popular"
+msgstr "Populaire"
+
+#: view/mwc_one_page_checkout_view.php:378
+msgid "Moderate"
+msgstr "Modérer"
+
+#: view/mwc_one_page_checkout_view.php:391
+msgid "Please choose"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:534
+msgid "Select Free Product"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:612
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:304
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:351
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:293
+msgid "Order Summary"
+msgstr "Résumé de la Commande"
+
+#: view/mwc_one_page_checkout_view.php:617
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:232
+#: view/shortcode_style_C/package_order_checkout_view_C.php:220
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:47
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:236
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:253
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:357
+msgid "Item"
+msgstr "Article"
+
+#: view/mwc_one_page_checkout_view.php:618
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:48
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:358
+msgid "Price"
+msgstr "Prix"
+
+#: view/mwc_package_order_checkout_view.php:37
+msgid "Packages"
+msgstr ""
+
+#: view/mwc_package_order_checkout_view.php:58
+msgid "Package"
+msgstr ""
+
+#: view/mwc_package_order_checkout_view.php:197
+msgid "+ FREE SHIPPING"
+msgstr "+ LIVRAISON GRATUITE"
+
+#: view/mwc_package_order_checkout_view.php:229
+msgid "Variation Selection"
+msgstr "Sélection de variation"
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:16
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:16
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:23
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:18
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:14
+msgid "Step 2: Customer Information"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:17
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:17
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:24
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:19
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:15
+msgid "Step 3: Payment Methods"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:37
+msgid "Step 1: Select Order Quantity"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:63
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:67
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:57
+msgid "Free"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:72
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:76
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:71
+msgid "Off"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:82
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:87
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:85
+msgid "Bundle"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:124
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:141
+msgid "Recommended Deal"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:233
+#: view/shortcode_style_C/package_order_checkout_view_C.php:221
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:237
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:254
+msgid "Amount"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:242
+#: view/shortcode_style_C/package_order_checkout_view_C.php:230
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:246
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:263
+msgid "Shipping"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:260
+#: view/shortcode_style_C/package_order_checkout_view_C.php:248
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:264
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:281
+msgid "Grand Total"
+msgstr ""
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:46
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:79
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:73
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:69
+#, php-format
+msgid "Buy %s + Get %d&#37;"
+msgstr "Achetez en %s + Pour Obtenir %d&#37;"
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:68
+msgid "Most Popular"
+msgstr "Le plus populaire"
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:75
+msgid "Option"
+msgstr ""
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:103
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:150
+msgid "Only"
+msgstr ""
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:106
+msgid "100 Day Money Back Guarantee"
+msgstr ""
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:112
+msgid "Order Now"
+msgstr ""
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:30
+msgid "OFF"
+msgstr ""
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:35
+msgid "Your 50% Discount Has Been Applied"
+msgstr ""
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:36
+msgid "Your Order Qualifies For FREE SHIPPING When Ordered TODAY"
+msgstr ""
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:41
+msgid "Step #1: Select Quantity"
+msgstr ""
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:123
+msgid "MOST POPULAR"
+msgstr "Le plus populaire"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:129
+msgid "ea"
+msgstr ""
+
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:32
+msgid "Step 1"
+msgstr ""
+
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:33
+msgid "Select Pre-Order Quantity - Guaranteed Delivery - Factory Direct"
+msgstr ""
+
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:146
+msgid "Reg"
+msgstr ""
+
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:23
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:23
+msgid "Step 1: Select Package"
+msgstr ""
+
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:127
+msgid "Save"
+msgstr ""
+
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:174
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:169
+msgid "Before"
+msgstr ""
+
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:179
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:174
+msgid "Now"
+msgstr ""

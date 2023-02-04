@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi Woo Checkout\n"
+"POT-Creation-Date: 2021-03-09 14:13+0700\n"
+"PO-Revision-Date: 2022-10-20 06:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: view\n"
+"X-Poedit-SearchPath-1: lib\n"
+"X-Poedit-SearchPath-2: templates\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.2; wp-6.0.3"
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:106
+msgid "100 Day Money Back Guarantee"
+msgstr ""
+
+#: view/includes/addon_product.php:283
+msgid "Add Item"
+msgstr ""
+
+#: view/includes/addon_product.php:25
+msgid "Addon product"
+msgstr "追加商品"
+
+#: view/includes/addon_product.php:28
+msgid "Addon Special"
+msgstr "追加オプション"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:237
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:233
+#: view/shortcode_style_C/package_order_checkout_view_C.php:221
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:254
+msgid "Amount"
+msgstr ""
+
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:169
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:174
+msgid "Before"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:375
+msgid "Best Seller"
+msgstr "ベストセラー"
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:82
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:87
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:85
+msgid "Bundle"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:73
+#: view/shortcode_style_C/package_order_checkout_view_C.php:55
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:83
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:92
+msgid "Bundle option"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:272
+msgid "Bundle price"
+msgstr ""
+
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:52
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:50
+#, php-format
+msgid "Buy %s"
+msgstr "%s個購入"
+
+#: view/mwc_one_page_checkout_view.php:70
+#, php-format
+msgid "Buy %s + Get %d &#37;"
+msgstr "%s個購入で%d &#37;割引"
+
+#: view/mwc_one_page_checkout_view.php:66 lib/class.mwc.php:109
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:71
+#: view/shortcode_style_C/package_order_checkout_view_C.php:38
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:54
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:52
+#, php-format
+msgid "Buy %s + Get %d FREE"
+msgstr "%s個購入で%d個無料"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:79
+#: view/shortcode_style_C/package_order_checkout_view_C.php:46
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:69
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:73
+#, php-format
+msgid "Buy %s + Get %d&#37;"
+msgstr ""
+"%s点購入で%d &#37;オフ\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+#: lib/class.mwc.php:119
+#, php-format
+msgid "Buy %s + Get %d&#37; Off"
+msgstr "%s点購入で%d &#37;オフ"
+
+#: view/includes/progress_bar.php:9
+msgid "Checking 2 Warehouses For Available Stock..."
+msgstr ""
+
+#: view/includes/progress_bar.php:7
+msgid "Checking if you Qualify for Special Offers..."
+msgstr ""
+
+#: view/includes/progress_bar.php:8
+msgid "Congratulations You Qualified!"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:366
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:262
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:258
+#: view/shortcode_style_C/package_order_checkout_view_C.php:246
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:279
+msgid "Discount"
+msgstr "ディスカウント"
+
+#: view/mwc_one_page_checkout_view.php:320
+msgid "Discounted"
+msgstr "割引"
+
+#. Author of the plugin
+msgid "Duy Lee"
+msgstr ""
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:129
+#, fuzzy
+#| msgid "each"
+msgid "ea"
+msgstr "各"
+
+#: view/mwc_one_page_checkout_view.php:300
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:129
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:130
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:169
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:174
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:174
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:179
+msgid "each"
+msgstr "各"
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:63
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:67
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:57
+msgid "Free"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:363
+msgid "FREE SHIPPING"
+msgstr "送料無料"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:264
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:260
+#: view/shortcode_style_C/package_order_checkout_view_C.php:248
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:281
+#, fuzzy
+#| msgid "Total"
+msgid "Grand Total"
+msgstr "合計"
+
+#: view/mwc_one_page_checkout_view.php:351
+msgid "High"
+msgstr "高い"
+
+#: view/mwc_one_page_checkout_view.php:618
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:47
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:236
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:232
+#: view/shortcode_style_C/package_order_checkout_view_C.php:220
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:253
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:357
+msgid "Item"
+msgstr "項目"
+
+#: view/mwc_one_page_checkout_view.php:355
+msgid "Low"
+msgstr "低"
+
+#: view/mwc_one_page_checkout_view.php:353
+msgid "Medium"
+msgstr "中"
+
+#: view/mwc_one_page_checkout_view.php:379
+msgid "Moderate"
+msgstr "普通"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:123
+msgid "MOST POPULAR"
+msgstr ""
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:68
+#, fuzzy
+#| msgid "Popular"
+msgid "Most Popular"
+msgstr "人気"
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Multi Woo Checkout"
+msgstr ""
+
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:174
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:179
+#, fuzzy
+#| msgid "Low"
+msgid "Now"
+msgstr "低"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:30
+msgid "OFF"
+msgstr ""
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:72
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:76
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:71
+msgid "Off"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:289
+#: view/mwc_one_page_checkout_view.php:290
+#: view/mwc_one_page_checkout_view.php:312
+#: view/mwc_one_page_checkout_view.php:313
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:232
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:273
+msgid "Old Price"
+msgstr "古い価格"
+
+#: lib/class-addon-product.php:86
+msgid "One-time offer"
+msgstr ""
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:103
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:150
+msgid "Only"
+msgstr ""
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:75
+msgid "Option"
+msgstr ""
+
+#: view/shortcode_style_C/package_order_checkout_view_C.php:112
+msgid "Order Now"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:613
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:293
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:304
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:351
+msgid "Order Summary"
+msgstr "注文の概要"
+
+#: lib/class-addon-product.php:91
+msgid "Percentage discount"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:392
+msgid "Please choose"
+msgstr "選択してください"
+
+#: view/mwc_one_page_checkout_view.php:377
+msgid "Popular"
+msgstr "人気"
+
+#: view/mwc_one_page_checkout_view.php:619
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:48
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:358
+msgid "Price"
+msgstr "価格"
+
+#: lib/class-addon-product.php:81
+msgid "Product ID"
+msgstr ""
+
+#: view/includes/addon_product.php:230
+msgid "Qty"
+msgstr "量"
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:124
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:141
+msgid "Recommended Deal"
+msgstr ""
+
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:146
+msgid "Reg"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:296
+msgid "Same as"
+msgstr "と同じ"
+
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:127
+msgid "Save"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:201
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:159
+#, php-format
+msgid "Save %s&#37;"
+msgstr "%s&#37; 割引"
+
+#: view/includes/addon_product.php:296
+msgid "See more"
+msgstr "詳しく見る"
+
+#: view/mwc_one_page_checkout_view.php:219
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:188
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:189
+msgid "select"
+msgstr "選択"
+
+#: view/mwc_one_page_checkout_view.php:535
+msgid "Select Free Product"
+msgstr "無料の商品を選択"
+
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:33
+msgid "Select Pre-Order Quantity - Guaranteed Delivery - Factory Direct"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:219
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:189
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:190
+msgid "selected"
+msgstr "選択した"
+
+#: view/mwc_one_page_checkout_view.php:347
+msgid "Sell-Out Risk"
+msgstr "売り切りの可能性"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:246
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:242
+#: view/shortcode_style_C/package_order_checkout_view_C.php:230
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:263
+msgid "Shipping"
+msgstr "送料"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:41
+#, fuzzy
+#| msgid "Step 1 of 3: Select Package"
+msgid "Step #1: Select Quantity"
+msgstr "ステップ1/3：パッケージの選択"
+
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:32
+msgid "Step 1"
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:46
+msgid "Step 1 of 3: Select Package"
+msgstr "ステップ1/3：パッケージの選択"
+
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:37
+msgid "Step 1: Select Order Quantity"
+msgstr ""
+
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:23
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:23
+#, fuzzy
+#| msgid "Step 1 of 3: Select Package"
+msgid "Step 1: Select Package"
+msgstr "ステップ1/3：パッケージの選択"
+
+#: view/mwc_one_page_checkout_view.php:16
+#: templates/checkout/form-checkout-opc.php:67
+msgid "Step 2 of 3: Customer Information"
+msgstr "ステップ2/3: 注文者情報入力"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:16
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:16
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:23
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:14
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:18
+#, fuzzy
+#| msgid "Step 2 of 3: Customer Information"
+msgid "Step 2: Customer Information"
+msgstr "ステップ2/3: 注文者情報入力"
+
+#: view/mwc_one_page_checkout_view.php:17
+#: templates/checkout/form-checkout-opc.php:145
+msgid "Step 3 of 3: Payment Option"
+msgstr "ステップ3/3：支払いオプション"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:17
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:17
+#: view/shortcode_style_E/mwc_one_page_checkout_view_E.php:24
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:15
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:19
+#, fuzzy
+#| msgid "Step 3 of 3: Payment Option"
+msgid "Step 3: Payment Methods"
+msgstr "ステップ3/3：支払いオプション"
+
+#: view/includes/progress_bar.php:10
+msgid "Stock Available In Warehouse 1! Reserving Your Units..."
+msgstr ""
+
+#: view/includes/addon_product.php:192
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: view/mwc_one_page_checkout_view.php:306 lib/class.mwc.php:589
+#: view/shortcode_style_B/mwc_one_page_checkout_view_B.php:131
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:178
+#: view/shortcode_style_G/mwc_one_page_checkout_view_G.php:304
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:183
+#: view/shortcode_style_F/mwc_one_page_checkout_view_F.php:315
+msgid "Total"
+msgstr "合計"
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:35
+msgid "Your 50% Discount Has Been Applied"
+msgstr ""
+
+#: view/shortcode_style_D/mwc_one_page_checkout_view_D.php:36
+msgid "Your Order Qualifies For FREE SHIPPING When Ordered TODAY"
+msgstr ""

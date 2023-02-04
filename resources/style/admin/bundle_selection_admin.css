@@ -1,0 +1,113 @@
+.quantity_main {
+  width: 100px;
+}
+.quantity_free {
+  width: 100px;
+}
+.product {
+  display: none !important;
+}
+.activetype {
+  display: block !important;
+}
+.activetype_button {
+  display: inline-block !important;
+}
+.selectpicker {
+  width: 150px;
+}
+.remove {
+  position: relative;
+  top: 5px;
+}
+.quantity_main_bundle {
+  position: relative;
+  top: 5px;
+}
+.label_inline {
+  display: inline;
+}
+
+#mwc_bundle_selection_meta .selectpicker_list .wp-picker-container {
+  display: inline-block;
+}
+
+/* show more currency total price option bundle */
+#mwc_bundle_selection_meta .collapsible .i_toggle {
+  float: right;
+}
+#mwc_bundle_selection_meta .collapsible .i_toggle::before {
+  content: "\f140";
+  font: normal 20px/1 dashicons;
+}
+#mwc_bundle_selection_meta .collapsible.active .i_toggle::before {
+  content: "\f142";
+  font: normal 20px/1 dashicons;
+}
+#mwc_bundle_selection_meta .toggle_content {
+  padding: 5px 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+#mwc_bundle_selection_meta .toggle_content .item_currency {
+  width: 49%;
+  display: inline-block;
+  padding: 5px 0;
+}
+#mwc_bundle_selection_meta .toggle_content .item_currency .item_name {
+  display: inline-block;
+  width: 15%;
+}
+#mwc_bundle_selection_meta .toggle_content .item_currency .input_price {
+  width: inherit;
+}
+#mwc_bundle_selection_meta .toggle_content .item_currency label  {
+  margin: 0;
+}
+
+/* total price bundle option */
+#mwc_bundle_selection_meta .collapsible.bundle_total_price {
+  background-color: #cccccc;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+#mwc_bundle_selection_meta .collapsible.bundle_total_price.active,
+#mwc_bundle_selection_meta .collapsible.bundle_total_price:hover {
+  background-color: #a2a2a2;
+}
+
+/* custom price product option */
+#mwc_bundle_selection_meta .collapsible.custom_price_prod {
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  border: 1px solid #c3c3c3;
+}
+#mwc_bundle_selection_meta .collapsible.custom_price_prod.active,
+#mwc_bundle_selection_meta .collapsible.custom_price_prod:hover {
+  background-color: #ddd;
+}
+#mwc_bundle_selection_meta .toggle_content.custom_price_prod {
+  padding: 10px 0 10px 15px;
+  border: 1px solid #c3c3c3;
+  margin-bottom: 5px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+#mwc_bundle_selection_meta .toggle_content.custom_price_prod .var_price {
+  width: 49%;
+  display: inline-block;
+  padding: 5px 0;
+}
+
+
